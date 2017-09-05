@@ -7,3 +7,7 @@ This is my AWS learning portfolio, using AWS and ReactJS
 Brew
 Git and Github
 SSH
+html
+CSS
+Font Awesome
+Google fonts
