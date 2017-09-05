@@ -1,2 +1,2 @@
-# my-portfolio
-This is my AWS learning portal
+# Opher Mizrachi's Portfolio
+This is my AWS learning portfolio, using AWS and ReactJS
